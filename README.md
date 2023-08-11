@@ -1,7 +1,8 @@
 # Instructions
 
 Run the following command in terminal
-```
+
+```bash
 npx --yes unlighthouse --site example.com
 ```
 

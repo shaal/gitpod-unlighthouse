@@ -1,2 +1,6 @@
 image:
   file: .gitpod.Dockerfile
+
+tasks:
+  - name: Unlighthouse
+    command: npx --yes unlighthouse --site example.com
